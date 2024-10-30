@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="assets/logo.png" alt="AlTTS Logo" width="200">
+  <img src="assets/logo.svg" alt="AlTTS Logo" width="200">
   <h1>AlTTS</h1>
   <p>
-    <b>基于 Microsoft Edge TTS 引擎的专业语音转文字工具</b><br>
-    <sub>让您的文字拥有自然、专业的声音</sub>
+    <b>基于 Microsoft Edge TTS 引擎的文字转语音工具</b><br>
   </p>
     <p>
     <img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-blue?style=for-the-badge" alt="Platform">
