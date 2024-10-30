@@ -3,6 +3,7 @@
   <h1>AlTTS</h1>
   <p>
     <b>基于 Microsoft Edge TTS 引擎的文字转语音工具</b><br>
+    <small>无需 API Key，开箱即用的图形界面应用</small>
   </p>
     <p>
     <img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-blue?style=for-the-badge" alt="Platform">
@@ -26,6 +27,7 @@
     <td width="50%">
       <h3>🎯 核心功能</h3>
       <ul>
+        <li>🔑 无需 API Key 或账号即可使用</li>
         <li>🌍 支持 70+ 种语言和方言</li>
         <li>🎙️ 提供 400+ 种专业音色</li>
         <li>🎚️ 精确的音频参数调节</li>
@@ -35,7 +37,7 @@
     <td width="50%">
       <h3>🎨 界面特性</h3>
       <ul>
-        <li>🖥️ 简洁直观的操作界面</li>
+        <li>🖥️ 简洁直观的图形操作界面</li>
         <li>🌓 支持浅色/深色主题</li>
         <li>🌐 中英文双语界面</li>
         <li>🔄 智能系统主题跟随</li>
@@ -156,3 +158,7 @@
   <hr>
   <p><sub>Copyright © 2024 AlxXxlA. All rights reserved.</sub></p>
 </div>
+
+## 致谢
+
+本项目基于 [edge-tts](https://github.com/rany2/edge-tts) 开发，感谢该项目提供的优秀 TTS 引擎支持。
